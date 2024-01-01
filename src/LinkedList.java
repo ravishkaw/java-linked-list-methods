@@ -3,9 +3,6 @@ public class LinkedList {
     public static Node head;
     public static Node tail;
 
-
-
-
     public static void main(String[] args) {
         System.out.println("Linked List Methods\n-----------------------------------------");
 
